@@ -1,0 +1,208 @@
+{
+  "categories": [
+    "Küche",
+    "Bar",
+    "Bar im Hotel"
+  ],
+  "menucats": [
+    {
+      "flags": [
+        true,
+        true,
+        true
+      ],
+      "id": 1
+    }
+  ],
+  "shoppinglist": [
+    {
+      "cat": 2,
+      "amount": "40",
+      "item": "Schirmchen",
+      "id": 6
+    },
+    {
+      "cat": 1,
+      "amount": "4",
+      "item": "vodka",
+      "id": 15
+    },
+    {
+      "cat": 0,
+      "amount": "4",
+      "item": "Zucker",
+      "id": 17
+    },
+    {
+      "cat": 1,
+      "amount": "4",
+      "item": "Jägi",
+      "id": 18
+    },
+    {
+      "cat": 2,
+      "amount": "8",
+      "item": "Vodka",
+      "id": 19
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Rührei classic",
+      "ingredients": [
+        [
+          "3",
+          "Eier"
+        ],
+        [
+          "50g",
+          "Butter"
+        ],
+        [
+          "Bund",
+          "Petersilie"
+        ]
+      ],
+      "cooking": "Mit Petersilie dekorieren",
+      "notes": "Eier und Butter zusammen in eine vorgeheizte Pfanne",
+      "cat": 0,
+      "id": 1
+    },
+    {
+      "name": "Rührei ála Ramseys",
+      "ingredients": [
+        [
+          "4",
+          "Eier"
+        ],
+        [
+          "100g",
+          "Creme Fraice"
+        ],
+        [
+          "80g",
+          "Butter"
+        ],
+        [
+          "Bund",
+          "Petersilie"
+        ]
+      ],
+      "cooking": "Große Pfanne nehmen",
+      "notes": "Alles umrühren und nach belieben würzen. Dann in der Pfanne bei niedriger Hitze gut rühren.\n\nPetersilie zum Dekorieren",
+      "cat": 0,
+      "id": 2
+    },
+    {
+      "name": "Tequila Sunrise",
+      "ingredients": [
+        [
+          "4 cl",
+          "Tequila"
+        ],
+        [
+          "3 cl",
+          "Grenadine Sirup"
+        ],
+        [
+          "Filler",
+          "Orangensaft"
+        ]
+      ],
+      "cooking": "Nicht rühren",
+      "notes": "Longdrinkglas",
+      "cat": 1,
+      "id": 3
+    },
+    {
+      "name": "asdsaddas",
+      "ingredients": [
+        [
+          "gds32453245",
+          "asfdsdg"
+        ]
+      ],
+      "notes": "",
+      "cooking": "dfhdfh",
+      "cat": 0,
+      "id": 5
+    },
+    {
+      "name": "sdfsdf",
+      "ingredients": [
+        [
+          "34",
+          "sdfsdf"
+        ]
+      ],
+      "notes": "",
+      "cooking": "fsdg",
+      "cat": 2,
+      "id": 6
+    }
+  ],
+  "menu": [
+    {
+      "recipeFlag": true,
+      "cat": 0,
+      "name": "Rührei classic",
+      "notes": "Glutenfrei",
+      "description": "Beschreibung!",
+      "ingredients": [
+        true,
+        true,
+        true
+      ],
+      "id": 1
+    },
+    {
+      "recipeFlag": true,
+      "cat": 0,
+      "name": "Rührei ála Ramseys",
+      "notes": "Enthält Eiweis!",
+      "description": "Beliebtes Rezept nach dem Chefkoch",
+      "ingredients": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "id": 2
+    },
+    {
+      "recipeFlag": true,
+      "cat": 1,
+      "name": "Tequila Sunrise",
+      "notes": "",
+      "description": "",
+      "ingredients": [
+        true,
+        true,
+        null
+      ],
+      "id": 3
+    },
+    {
+      "recipeFlag": true,
+      "cat": 0,
+      "name": "asdsaddas",
+      "notes": "",
+      "description": "",
+      "ingredients": [
+        true
+      ],
+      "id": 5
+    },
+    {
+      "recipeFlag": false,
+      "cat": 2,
+      "id": 6,
+      "name": "sdfsdf",
+      "notes": "",
+      "description": "",
+      "ingredients": [
+        null
+      ]
+    }
+  ]
+}
