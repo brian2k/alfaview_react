@@ -1,0 +1,281 @@
+{
+  "categories": [
+    "Küche",
+    "Bar",
+    "Bar im Hotel"
+  ],
+  "menucats": [
+    {
+      "flags": [
+        true,
+        true,
+        true
+      ],
+      "id": 1
+    }
+  ],
+  "shoppinglist": [
+    {
+      "cat": 1,
+      "amount": "4",
+      "item": "Jägi",
+      "id": 18
+    },
+    {
+      "amount": "5",
+      "item": "fghgf",
+      "id": 23
+    },
+    {
+      "cat": 2,
+      "amount": "2",
+      "item": "Whiskey ",
+      "id": 31
+    },
+    {
+      "cat": 0,
+      "amount": "1",
+      "item": "Salz",
+      "id": 32
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Rührei classic",
+      "ingredients": [
+        [
+          "3",
+          "Eier"
+        ],
+        [
+          "50g",
+          "Butter"
+        ],
+        [
+          "Bund",
+          "Petersilie"
+        ]
+      ],
+      "cooking": "Mit Petersilie dekorieren",
+      "notes": "Eier und Butter zusammen in eine vorgeheizte Pfanne \n\n\nGhcjce",
+      "cat": 0,
+      "id": 1
+    },
+    {
+      "name": "Rührei ála Ramseys",
+      "ingredients": [
+        [
+          "4",
+          "Eier"
+        ],
+        [
+          "100g",
+          "Creme Fraice"
+        ],
+        [
+          "80g",
+          "Butter"
+        ],
+        [
+          "Bund",
+          "Petersilie"
+        ]
+      ],
+      "cooking": "Große Pfanne nehmen",
+      "notes": "Alles umrühren und nach belieben würzen. Dann in der Pfanne bei niedriger Hitze gut rühren.\n\nPetersilie zum Dekorieren",
+      "cat": 0,
+      "id": 2
+    },
+    {
+      "name": "Tequila sunrise",
+      "ingredients": [
+        [
+          "4 cl",
+          "Tequila"
+        ],
+        [
+          "2 cl",
+          "Grenadine Sirup"
+        ],
+        [
+          "Filler",
+          "Orangensaft"
+        ]
+      ],
+      "cooking": "Nicht rühren",
+      "notes": "Longdrinkglas",
+      "cat": 1,
+      "id": 3
+    },
+    {
+      "name": "FRANZISKA Cocktail ",
+      "ingredients": [
+        [
+          "4cl",
+          "Whiskey "
+        ],
+        [
+          "2",
+          "Cocktailkirsche"
+        ]
+      ],
+      "cooking": "Zubereitung ",
+      "notes": "Nothing ",
+      "cat": 2,
+      "id": 6
+    },
+    {
+      "name": "Crock Pot Roast",
+      "ingredients": [
+        [
+          "1",
+          "beef roast"
+        ],
+        [
+          "1 package",
+          "brown gravy mix"
+        ],
+        [
+          "1 package",
+          "dried Italian salad dressing mix"
+        ],
+        [
+          "1 package",
+          "dry ranch dressing mix"
+        ],
+        [
+          "1/2 cup",
+          "water"
+        ]
+      ],
+      "cooking": "Place beef roast in crock pot.\nMix the dried mixes together in a bowl and sprinkle over the roast.\nPour the water around the roast.\nCook on low for 7-9 hours.",
+      "notes": "",
+      "cat": 0,
+      "id": 7
+    },
+    {
+      "name": "test",
+      "ingredients": [
+        [
+          "1",
+          "Salz"
+        ]
+      ],
+      "notes": "",
+      "cooking": "Gvj",
+      "cat": 0,
+      "id": 8
+    },
+    {
+      "name": "Franziska cocktail",
+      "ingredients": [
+        [
+          "T",
+          "Bxh"
+        ]
+      ],
+      "cooking": "Fhk",
+      "notes": "",
+      "cat": 1,
+      "id": 9
+    }
+  ],
+  "menu": [
+    {
+      "recipeFlag": true,
+      "cat": 0,
+      "name": "Rührei classic",
+      "notes": "Glutenfrei",
+      "description": "Beschreibung!",
+      "price": "15.90",
+      "ingredients": [
+        true,
+        true,
+        true
+      ],
+      "id": 1
+    },
+    {
+      "recipeFlag": true,
+      "cat": 0,
+      "name": "Rührei ála Ramseys",
+      "notes": "Enthält Eiweis!",
+      "description": "Beliebtes Rezept nach dem Chefkoch",
+      "price": 14.9,
+      "ingredients": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "id": 2
+    },
+    {
+      "recipeFlag": true,
+      "cat": 1,
+      "name": "Tequila Sunrise",
+      "notes": "",
+      "description": "",
+      "price": 10.5,
+      "ingredients": [
+        true,
+        true,
+        null
+      ],
+      "id": 3
+    },
+    {
+      "recipeFlag": true,
+      "cat": 2,
+      "name": "Hotel Cocktail ",
+      "notes": "",
+      "description": "",
+      "price": 10,
+      "ingredients": [
+        true,
+        true
+      ],
+      "id": 6
+    },
+    {
+      "recipeFlag": true,
+      "cat": 0,
+      "name": "Crock Pot Roast",
+      "notes": "contains meat",
+      "description": "Slow Cooker Pot Roast is the ultimate comfort food! It’s a super hearty, deliciously flavorful meal in one that’s sure to satisfy even the pickiest of eaters.\n\nThis is just classic, homestyle, stick to your ribs good food made with basic, real ingredients. Plus it’s the best thing to come home to, cooked in the crock pot and ready to eat after a long day!",
+      "price": "112",
+      "ingredients": [
+        true,
+        true,
+        true,
+        true,
+        null
+      ],
+      "id": 7
+    },
+    {
+      "recipeFlag": true,
+      "cat": 0,
+      "name": "test",
+      "notes": "",
+      "description": "",
+      "price": "9.99",
+      "ingredients": [
+        null
+      ],
+      "id": 8
+    },
+    {
+      "recipeFlag": false,
+      "cat": 1,
+      "id": 9,
+      "name": "Test 2",
+      "notes": "",
+      "description": "",
+      "price": 0,
+      "ingredients": [
+        null
+      ]
+    }
+  ]
+}
